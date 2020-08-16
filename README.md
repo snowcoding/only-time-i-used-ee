@@ -1,4 +1,4 @@
- The only time EE came in handy
+# The only time EE came in handy
 
 So today the power went out _while_ I was on an interview! Good thing I had a battery back up (EC650LCD reco by Avi). It gave me enough time to plan for to get on to an alternate network and continue. The battery back up did eventually die, but it gave me enough time (~ 15 mins) to come up with an alternative.
 
