@@ -35,3 +35,7 @@ The final formula is in Amp-hours so to convert we'll use this:
 - Discharge Time = 10 * (3.25) / 115 = .263 hrs or 15.7 minutes!!!
 
 This is ideal. So in actuality it will be less due to heat loss and stuff!
+
+Thanks for reading if you got this far! This was also allowing me to exercise writing in markdown. Cheers! :)
+
+PS: If there are any mistakes, feel free to let me know or make pull-request! 
