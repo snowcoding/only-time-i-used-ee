@@ -12,25 +12,25 @@ Given:
 
 On to the math:
 
-## Step 1: Get Battery's Energy
+### Step 1: Get Battery's Energy
 Energy is power (watts) over time (hrs). So energy will be in terms of Watt-hrs. This couldn't be easier than 
 - Energy in Watt-hrs = Power * time => Watts * hours, therefore:
 - Energy <sub>batt</sub> = P <sub>batt</sub> * 1 unit time => 390 W * 1hr = 390 watt-hrs
 
 
-## Step 2: Converty energy to Amp-hours
+### Step 2: Converty energy to Amp-hours
 
 The final formula is in Amp-hours so to convert we'll use this:
 - Amp-hr = Watt-hr/Voltage =>
 - Energy <sub>batt-A-h</sub> = Energy <sub>batt-W-h</sub> / V <sub>batt</sub> =>
 - 390 W-h / 120 V <sub>AC</sub> => 3.25 A-h
 
-## Step 3: Calculate the router's power:
+### Step 3: Calculate the router's power:
 - Power (Watts) = Voltage (Volts) * Current (Amps)
 - Power <sub>router</sub> = P <sub>router</sub> = V <sub>router</sub> * I <sub>router</sub>
 - P <sub>router</sub> = 115 V<sub>AC</sub> * 1 A<sub>AC</sub> = 115 Watts
 
-## Step 4: Calcuate the discharge time of the battery:
+### Step 4: Calcuate the discharge time of the battery:
 - Discharge Time (hrs) = 10 * (Energy <sub>batt-A-h</sub>) / Power <sub>router</sub>
 - Discharge Time = 10 * (3.25) / 115 = .263 hrs or 15.7 minutes!!!
 
