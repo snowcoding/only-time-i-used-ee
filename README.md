@@ -2,7 +2,7 @@
 
 So today the power went out _while_ I was on an interview! Good thing I had a battery back up (EC650LCD reco by Avi). It gave me enough time to plan to get on to an alternate network and continue. The battery back up did eventually die, but it provided critical time frame: ~ 15 mins.
 
-Out of curiosity I tried to calculate how long the router would last off of a fully charged battery. This is the first time I've ever used any of my knowledge from my EE degree IRL. So sad *said in trump's voice*
+Out of curiosity I tried to calculate how long the router would last off of a fully charged battery. This is the first time I've ever used any of my knowledge from my EE degree IRL. So sad [said in trump's voice]
 
 Given:
 - Battery Power (in watts) = Power <sub>batt</sub> = P <sub>batt</sub> = 390 W
